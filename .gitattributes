@@ -1,0 +1,3 @@
+join_wssd_wgac/example_data/* linguist-vendored
+association_analysis/example/* linguist-vendored
+remove_highcopy_repeats/test_data/* linguist-vendored
