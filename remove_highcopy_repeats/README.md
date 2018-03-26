@@ -1,9 +1,9 @@
 ### Remove high-copy repeats based on the following criteria:
-1) >= 50 copies in the genome
+\>= 50 copies in the genome
 OR
-2) a distribution to multiple chromosomes (>= 3)
+a distribution to multiple chromosomes (>= 3)
 
-### Required file: the final output of the WGAC pipeline
+### Required input file: the final output of the WGAC pipeline
 
 ### Here is an example on how to use the programs.
 ### Three steps
