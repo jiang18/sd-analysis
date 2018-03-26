@@ -5,7 +5,6 @@ a distribution to multiple chromosomes (>= 3)
 
 ### Required input file: the final output of the WGAC pipeline
 
-### Here is an example on how to use the programs.
 ### Three steps
 1
 ```
